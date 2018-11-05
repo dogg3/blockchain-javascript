@@ -8,8 +8,15 @@ Distributed ledger
 	Changing one block makes all the following invalid - 
 
 
+	
 	Proof of work.
-		
+		In order to not be able to temper the chain and temper all the other hashes
+		Make it demand more computing power to manipluate the chain.
+			
 	P2P network - 
-		Everyone gets a full copy of the block-chain.
+		Everyone gets a full copy of the block-chainl
+
+
+
+
 		
