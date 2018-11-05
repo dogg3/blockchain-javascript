@@ -1,0 +1,15 @@
+Distributed ledger
+	Block
+		Data - sender, reciever, amount
+		Hash - fingerprint
+		 - identify the block and all its content
+		Hash of previous block - makes it secure
+
+	Changing one block makes all the following invalid - 
+
+
+	Proof of work.
+		
+	P2P network - 
+		Everyone gets a full copy of the block-chain.
+		
